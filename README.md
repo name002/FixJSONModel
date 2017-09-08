@@ -127,4 +127,6 @@ jsonKeyPath = (keyMapper) ? [self __mapString:property.name withKeyMapper:keyMap
 参考
 
 [Single Model with multiple KeyMappers for serializing](https://github.com/jsonmodel/jsonmodel/issues/545)
+
+
 [JSONModel命名中的驼峰(CamelCase)与下划线 (UnderscoreCase)](http://blog.csdn.net/baidu_32469997/article/details/51882917)
