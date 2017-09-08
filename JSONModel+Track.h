@@ -7,7 +7,6 @@
 //
 
 #import <JSONModel/JSONModel.h>
-#import <JSONModelClassProperty.h>
 
 @interface JSONModel (Track)
 
